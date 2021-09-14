@@ -1,0 +1,6 @@
+2021-02-12T21:36:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2021-02-12T21:36:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2021-02-12T21:46:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php on line 2056
+
